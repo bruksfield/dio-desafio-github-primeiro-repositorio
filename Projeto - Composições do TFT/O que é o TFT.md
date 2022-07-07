@@ -21,3 +21,4 @@ O TFT é um auto chess - ou seja, um xadrez automático - no qual:
 A ideia é combinar sinergias que se complementam para alcançar a vitória. O nome dessas combinações é **composição** 
 
 Por exemplo: é ideal combinar uma sinergia que aumenta o dano das peças com outra sinergia que aumenta a velocidade de ataque delas.
+
